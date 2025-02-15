@@ -1,2 +1,2 @@
 # Welcome to Gigaflow vSwitch
-🚀 Visit our website: [gigaflow-vswitch.github.io](https://gigaflow-vswitch.github.io/home/home/){:target="_blank"}
+🚀 Visit our website: [gigaflow-vswitch.github.io](https://gigaflow-vswitch.github.io/home/home/)
